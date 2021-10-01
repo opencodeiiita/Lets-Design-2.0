@@ -19,17 +19,17 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 
 </br>
 
-| Task             | Tentative Time                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Typogarphy Task | Week 1 |
-| Business Card Design | Week 1 |
-| Logo Design | Week 2 |
-| Responsive Logo Design | Week 3 |
-| Design a 3D Model using Blender | Week 4 |
+| Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
+| ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
+| Typogarphy Task | 4th - 6th October | Rookie | 10 |
+| Business Card Design | 7th - 9th October  | Rookie | 10 |
+| Logo Design | 10th - 14th October |  Skilled | 20 |
+| Responsive Logo Design | 15th - 22nd October | Expert | 50 |
+| Design a 3D Model using Blender | 23rd October - 3rd November | Expert | 50 |
   
 </br>
 
-> The exact START and END date for each task along with the detailed instructions will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
+> The detailed instructions of each task will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
 
 
 </br>
