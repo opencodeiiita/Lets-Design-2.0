@@ -29,7 +29,7 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
   
 </br>
 
-> The detailed instructions of each task will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
+> The detailed instructions of each task will be mentioned in their respective folders. Keep checking for updates about new task releases😉
 
 
 </br>
