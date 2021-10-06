@@ -39,6 +39,7 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
 - The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc.
 - Since everyone should be awarded for their efforts, the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded Full Points🎉
+- These tasks are for learning design and not just scoring points so any kind of Plagiarism or attempt thereof wouldn't be tolerated and would lead to disqualification from OpenCode. You can always ping us for doubts and we would be more than happy to help but simply copying others' ideas for the sake of completing the tasks will be dealt strictly with.
 
 </br>
 
@@ -47,6 +48,7 @@ No claim can be made on the number of points awarded by the Mentors & Organisers
 > 
 
 </br>
+
 
 ## Contribution:
 
