@@ -1,6 +1,6 @@
-**OPEN TO ALL
-No need to claim this issue
-NO SUBMISSION WILL BE ACCEPTED AFTER 12th October 11:59 PM**
+**OPEN TO ALL**
+**No need to claim this issue**
+**NO SUBMISSION WILL BE ACCEPTED AFTER 12th October 11:59 PM**
 
 </br>
 In this task, you have to suggest a mascot for OpenCode and also, state the reason to justify your suggestion. 
