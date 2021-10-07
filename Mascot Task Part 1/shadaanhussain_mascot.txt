@@ -1,0 +1,29 @@
+Type of Mascot: Animal
+Animal : Eagle
+Motive Behind Eagle: Eagle is Clever, Fast, Intellegent and Brave.
+
+
+Personality:
+
+Clever
+Intelegent
+Dominating
+Courageous
+Brave
+Fast
+
+Expressions:
+
+Confident
+Focused
+Smilling
+
+Outfit: OpenCode contributor T-Shirt
+
+Pose: Working on Computer or Standing Confidently.
+
+
+
+
+
+ 
