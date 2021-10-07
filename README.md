@@ -22,9 +22,11 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 | Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
 | ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
 | Typogarphy Task | 4th - 6th October | Rookie | 10 |
-| Business Card Design | 7th - 9th October  | Rookie | 10 |
-| Logo Design | 10th - 14th October |  Skilled | 20 |
-| Responsive Logo Design | 15th - 22nd October | Expert | 50 |
+| Mascot Task (Part 1) | 6th - 12th October | Skilled | 20 |
+| Business Card Design | 7th - 12th October  | Skilled | 20 |
+| Logo Design | 10th - 17th October |  Advanced | 30 |
+| Mascot Task (Part 2) | 13th October - 3rd November | Expert | 50 |
+| Responsive Logo Design | 15th - 25nd October | Expert | 50 |
 | Design a 3D Model using Blender | 23rd October - 3rd November | Expert | 50 |
   
 </br>
@@ -39,6 +41,7 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
 - The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc.
 - Since everyone should be awarded for their efforts, the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded Full Points🎉
+- These tasks are for learning design and not just scoring points so any kind of Plagiarism or attempt thereof wouldn't be tolerated and would lead to disqualification from OpenCode. You can always ping us for doubts and we would be more than happy to help but simply copying others' ideas for the sake of completing the tasks will be dealt strictly with.
 
 </br>
 
@@ -47,6 +50,7 @@ No claim can be made on the number of points awarded by the Mentors & Organisers
 > 
 
 </br>
+
 
 ## Contribution:
 
