@@ -1,0 +1,10 @@
+Chosen character : 
+github's logo (octocat) mascot
+
+Personality of this character :
+standing confident with keen observation on contributors.
+
+Poses, Emotions, Outfits, and Scenes :
+standing position with a magnifying glass in it's one hand (in search of open source enthusiasts with outshining ideas), wearing a coat (just like a detective wears coat in cartoon characters) and a banner in it's other hand displaying symbol "</>" (signifying 'code' that will help developers contribute to real-life projects)
+
+Since *OpenCode* is a open source program and the platform chosen is 'Github', I thought github's logo will be best suited for choosing mascot.  
