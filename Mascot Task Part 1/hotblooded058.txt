@@ -1,0 +1,31 @@
+Type of Mascot: Animal
+Animal : Jaguar
+Motive Behind Jaguar: Jaguar is representative of power, ferocity,valor and embodiment of aggressiveness.
+
+Personality:
+
+Clever
+Intellegent
+Dominating
+Courageous
+Brave
+Fast
+power
+
+
+*In OpenCode you have to be clever to claim the issue first. And complete it as fast as possible in given time constraint.
+ Also show your intelligence to pick up that issue which you are more comfortable.
+ Like jaguar you have be attentive on your prey(issue) for claming it first.
+ There are some issues in which best one is considered so you have to do work which will dominate others and gain confidence.
+
+Expressions:
+
+funny
+Confident
+aggressive 
+Focused
+attentive
+
+Outfit: wearing IIITA merge
+
+Pose: Holding Banner of "open code 2021"
