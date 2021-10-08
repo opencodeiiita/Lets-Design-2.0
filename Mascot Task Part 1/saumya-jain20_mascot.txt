@@ -1,0 +1,28 @@
+Type of Mascot : Animal
+
+Animal : Horse
+
+Motive Behind Horse :
+Fast
+Well-developed sense of balance
+Brave
+
+Personality :
+Fast
+Well-developed sense of balance
+Represent a group with a common identity
+Brave
+
+In OpenCode you have to be the fastest to claim the issue first, also you have to work fast to resolve the issue in a given time limit.
+You should have a good sense of balance so that you choose the issue of your interest.
+In openCode if we struct somewhere we can take help from our mentors or batchmates, because we all represent a group with common identity called developers.
+
+Expressions :
+Confident
+Focused
+Smart
+Hardworking
+
+Outfit : OpenCode contributor T-Shirt
+
+Pose : Working on Laptop or Standing with Smile and Confident.
