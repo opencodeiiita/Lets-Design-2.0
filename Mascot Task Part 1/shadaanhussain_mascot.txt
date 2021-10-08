@@ -1,0 +1,32 @@
+Type of Mascot: Animal
+Animal : Eagle
+Motive Behind Eagle: Eagle is Clever, Fast, Intellegent and Brave.
+
+
+Personality:
+
+Clever
+Intelegent
+Dominating
+Courageous
+Brave
+Fast
+
+*In OpenCode you have to be clever to claim the issue first, you have to show some courage and take the issue of your interest. 
+After getting the issue you have to be fast and resolve the issue within time. There are some issues in which best one is considered so you have to do work which will dominate others.
+
+Expressions:
+
+Confident
+Focused
+Smilling
+
+Outfit: OpenCode contributor T-Shirt
+
+Pose: Working on Computer or Standing Confidently.
+
+
+
+
+
+ 
