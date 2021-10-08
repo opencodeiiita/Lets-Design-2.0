@@ -1,0 +1,12 @@
+Character :- Person
+A Mother
+Personality traits:- 
+1) Just like a mother prepares her child to face the outerworld Opencode prepares us to face the technical industry
+2) A mother teaches all the good values to her child, the opencode teaches diferrent tech stacks to its participants.
+3) Just like a mother faces many problems but always has a smile on face the participants in opencode have various assigned issues pending to be merged but still they stay positive and high in confidence
+4) She adapts to each and every situation smoothly just like opencode participants have to adapt to differrent tech stacks
+5) Always manages to find a way out of every situation
+
+Poses:- 
+1) A mother carrying a child with a smile on the face
+2) A mother with 8 hands with a differrent tech stacks on each hand and a smile on the face
