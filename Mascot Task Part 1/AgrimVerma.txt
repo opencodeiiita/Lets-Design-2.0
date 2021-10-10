@@ -1,10 +1,10 @@
 Mascot Task
 
-Name of Mascot : Feedback
+Name of Mascot : Buzzshock
 Type of Mascot : Character
 
 Why I chose a Character as a mascot : To relate with our tech society as this character always seek new technology.
-Character Inspiration : Conductoid aliens from Ben 10 Universe
+Character Inspiration : Nosedeenian aliens from Ben 10 Universe
 
 
 Character Description :
@@ -14,6 +14,7 @@ He heard about OpenCode and is ready to participate and claim all the issues.
 
 
 Personality traits :
+* Cheerful
 * Clever
 * Cunning
 * Confident
@@ -28,4 +29,4 @@ Expression :
 Proud, observing all the contributors with a Cunning smile on his face.
 
 Poses :
-Standing (smiling and holding hands) after claiming all the issues.
+Standing (smiling and dancing) after claiming all the issues.
