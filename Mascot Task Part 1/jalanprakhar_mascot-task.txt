@@ -1,12 +1,11 @@
-Mascot type: character
-Mascot name: Arjuna
+Mascot type: animal
+Mascot name: Mr Owl
 Personality traits:-
-1)*Courage to accept the challenges just like opencode participants have to take up some issues in unknown techstacks
-2)Intelligence to promptly reply and take action:- Just like our particpats have to do while claiming issues(need to be fast and aslo chose wisely as can only be assigned 4 at a
-a time.
-3)Committed and passionate Towards his goal: Just like our participants to solve issues
+1)The owl was a symbol for Athena, goddess of wisdom and strategy just what open code participants need to excel
+2)Being a Night owl is one of the characterstic of every open code participants
+3)Owls have a far sighted vision just what our participants need.
 
 Mascot poses:-
-Arjuna holding a bow and arrow aiming at the eye of the fish (that iconic pose linked in pr)
-Confidently standing on a mountaining aiming at the sky depecting "sky is the limit"
+An Owl holding a Coffee mug 
+An owl standing in the night with eyes wide open.
 
