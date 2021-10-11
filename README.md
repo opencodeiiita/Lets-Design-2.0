@@ -26,7 +26,7 @@ This Repository will consist of tasks related to various aspects of Graphic Desi
 | Business Card Design | 7th - 12th October  | Skilled | 20 |
 | Logo Design | 11th - 18th October |  Advanced | 30 |
 | Mascot Task (Part 2) | 13th October - 3rd November | Expert | 50 |
-| Responsive Logo Design | 15th - 25nd October | Expert | 50 |
+| Responsive Logo Design | 19th - 28nd October | Expert | 50 |
 | Design a 3D Model using Blender | 23rd October - 3rd November | Expert | 50 |
   
 </br>
