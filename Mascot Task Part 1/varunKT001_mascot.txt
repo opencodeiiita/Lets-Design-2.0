@@ -1,0 +1,25 @@
+Mascot type: animal
+Animal: Cheetah
+Name: Fury
+
+Personality traits:
+Confident
+Calm
+Focused
+Fast
+
+Cheetah is considered to be a fastest land animal. Apart from being fast, he is calm and focused. 
+The mascot will also represent similar traits like cheetah: 
+He is confident while claiming an issue,
+calm while understanding the issue,
+focused while resolving issue, 
+and being calm and focused, increases the speed of the workflow, and thereby the issue is resolved very fast.  
+
+Mascot poses:
+A cheetah focused on his laptop screen with a coffee mug in one hand.
+
+Mascot expressions:
+He can be seen with a cute smile and a confident look. 
+
+Mascot outfits: 
+wearing OpenCode T-shirt :) 
