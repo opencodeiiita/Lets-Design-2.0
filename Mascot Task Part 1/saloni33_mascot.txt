@@ -1,0 +1,22 @@
+Mascot Task
+
+Type of Mascot : Animal
+Animal : Squirrel 
+
+Name of Mascot : Smokey
+
+Personality of this character:
+Athletic, Bold, Curios, Sociable
+
+Pose: 
+Sitting in front of laptop. 
+
+Outfit:
+Wearing a cool cap with a white t-shirt with IIITA logo
+
+Expressions:
+Competetive 
+Confident
+
+Open Code is a great opportunity to learn new things and to claim the issues an athletic and curious nature is required.
+To be bold and sociable one becomes confident and hence learn many things from fellow mates.
