@@ -1,0 +1,19 @@
+Type of Mascot : Animal
+Animal : Fox
+
+Description: 
+The fox personality is an agile minded personality, and is always active just like we are in opencode the person who is active and quick claims the issue and starts working on it. They are very ambitious, and do well in the field that they choose for themselves. We should also be ambitious and motivated throughout the open code period to show our skills.
+he is willing to claim the issues even if he is unclear about them and is ready to learn new things.
+
+Personality:
+Ambitious
+Quick Learner
+Active
+shift your thinking when and how the situation requires it
+
+
+
+Outfit : white tshirt with geekhaven wriiten on it.
+
+Poses : Fox with a laptop in one hand with a excitement, big smile  and github logo on other hand as github plays a important role in open source and laptop screen showing "Issue Claimed!!"
+

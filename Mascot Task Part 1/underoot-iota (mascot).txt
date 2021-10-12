@@ -1,0 +1,33 @@
+Name of Mascot: Bee
+Type of Mascot: Animal (Bee)
+
+
+Why a Bee?
+I chose a bee as mascot cause, a bee may be small, but its tenacious spirit, curiosity and hard work ethic 
+mirror the characteristics needed to be a good challenger.
+Similarly, Bee is ready to take all the issues in OpenCOde, and to learn many new things. She's ready to take all new 
+challenges/issues and is determined to be in a good on leaderboard.
+
+
+
+Personality of this character:
+Friendly
+Curious
+Hardworking
+Strong Will
+Efficient
+Desire to seek new things
+Dank
+
+
+
+Poses:
+Bee happily buzzing, ready to try out new things
+Bee focused while solving an issue
+Bee wearing glasses, looking all cool and pleased after solving issues
+
+
+
+Outfit:
+Wearing tshirt with OpenCode logo/
+diff color tshirts acc. to the theme
