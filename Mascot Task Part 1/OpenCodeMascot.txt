@@ -1,0 +1,11 @@
+I choose a "sailing ship" as the mascot for open code.
+
+Sailboats symbolize journey and adventure. 
+They also are associated with being carried along by the “breath of life,” as its primary form of momentum is gained through the wind in its sails. Open Code symbolizes the starting of the development journey. 
+
+-The ship's name is GeekHaven, and it will assist us in beginning our journey from the shores.
+-It is our determination that allows us to sail through the sea of "issues" and weather every storm. Only those who persevere with tenacity make it safely to the other side.
+-The sails on the ship are analogous to OpenCode; we use our determination as wind to keep moving forward.
+
+SCENE
+This ship is sailing through a sea of development issues.
