@@ -1,0 +1,16 @@
+Mascot type: Animal(Reptile)
+Mascot name: Tortoise
+Personality of character :
+
+1)Patience: In the story character wins the race even being slow and having less skills because he had patience. It is like open code where contributers claiming the issues and 
+collecting the points with patience.
+2) Consistency: There is no doubt that speed plays an important role but your speed just doesn't matter if you are consistent for 4 weeks instead of 4 years. 
+Contributors in open code are doing the same with consistency. 
+3) Speed: If someone is good in above two points as well as in speed you will always have upper hand over slow and steady, but you need to be good in your craft. If any contributor is 
+completing 4 task in a day but noone is correct then completing one task correctly in a day is better then completing four tasks in a day.
+4)Focus : You need to focus super hard when you are winning. Contributors should do work hard with given every issue or task but focus and patience are the keys to complete any task correctly.
+
+Plan Poses:
+In the race the tortoise meanwhile kept going slowly but steadily and passed the place where hare was sleeping and reached the winning post. Tortoise wins the race because he focused only on winning line.
+
+Thus speed does not much matter if contributors solving the issues steadily with focus and patience.

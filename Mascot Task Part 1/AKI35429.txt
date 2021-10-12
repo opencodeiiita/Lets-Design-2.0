@@ -1,0 +1,15 @@
+Mascot Task
+
+Name of Mascot: Mr.Octo
+Type of Mascot:Animal (Octopus)
+
+Personality of this Character:
+Intelligent, independent, Fast, Confident, Strategic Thinker, Friendly.
+
+Poses:
+Mr.Octo wearing glasses and a hat(with opencode logo) sitting infront of a lappy 
+
+In OpenCode Program one has to be quick to claim the issues and also to solve it as there are time constraints
+Also we must be able to think and solve multiple issues from different domains(like octopus can use its multiple tentacles and brains at once)
+Also we must use different tools and skills to resolve an issue in opencode(like octopus use strategies to hunt its prey)
+

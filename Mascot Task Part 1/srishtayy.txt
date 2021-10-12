@@ -1,0 +1,24 @@
+Type of Mascot : Animal
+Animal : Black Panther
+Name : Blacky
+
+Character Description: 
+Mr. Blacky is a hardworking and a disciplined animal.So he has completed all his work and has fetched his food too.But since he is a disciplined and a focused animal he does not want to sleep or take rest and wants to learn something new so Blacky picked up the laptop he found and learned about OpenCode.So without waiting he begins his open source journey and since he is a risk taker
+he is willing to claim the issues even if he is unclear about them and is ready to learn new things.
+
+Personality:
+Greatest strength is their productivity
+Discipline to work all hours to get the job done
+Risk takers
+Insightful
+Listeners
+
+Expressions : 
+Eager (to learn)
+Focused (to complete the tasks he is assigned)
+Hardworker (Wants to work)
+
+Outfit : Wearing IIITA Merchandise 
+
+Poses :
+Sitting in front of the laptop wearing the merchandise determined to solve the current assigned issues and claim new ones.

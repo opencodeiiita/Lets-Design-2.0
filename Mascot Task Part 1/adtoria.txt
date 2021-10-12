@@ -1,0 +1,19 @@
+Mascot Task Part 1
+
+Type of Mascot: Insect
+Type of Insect: Ant
+Mascot Name: Techie Ant
+
+Personality Traits: 
+- Fast
+- Hard-working
+- Patient
+- Diligent
+- Quick learners
+- Not easily distracted
+- Work together as a team. (which is what OpenCode is mostly about, team-work)
+
+Poses, Emotions, Outfits, Scenes: 
+- Ants sitting in groups wearing glasses with their laptops and coffee and collaborating over a project.
+- They can be depicted as undistracted and occupied with their work to care about anything else.
+- Wearing hoodies.
