@@ -1,0 +1,33 @@
+Mascot for OpenCode
+Type of Mascot: Animal
+Animal : Squirrel
+Name of the mascot: neo
+
+Personality:
+
+hard & smart working 
+self dependent 
+kind 
+Courageous
+Brave
+speed
+Sporty
+Focused
+Stablity in any Situation
+
+squirrel are the hard and smart working creature as they always find the shortest path to reach their goal and they are alway help to others .
+they always wake up early to do their daily and can do anything reach any height to acomplish the goal (to find food for their family).
+
+*In OpenCode you have to be fast to claim the issue first. And complete it as fast as possible in given time constraint.
+ Also show your smartness ,intelligence and speed to pick up that issue which you are more comfortable (like squirrel grab the nearest possiible location ).
+ Like squirrel you have be Focused on your prey(issue) for complete it first and should be stable with time.
+ There are some issues in which best one is considered so you have to do hard work and be sporty on whatever the result be.
+
+Outfit: IITA T-Shirt, OpenCode Zipper, lower as Jogger, and Computer Specs
+Pose: 
+Neo with smart tab tied on the tail and wearing headphone and doing code on tab by using the tail as support for tab and stability.
+An Aura of Screen Light will glow the face and on the specs it will be written openCode.
+
+
+
+
