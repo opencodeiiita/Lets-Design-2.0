@@ -1,0 +1,20 @@
+Type of Mascot: Alien
+
+Mascot Name: Zeki
+
+Personality: Intelligent, enthusiastic, dedicated, always exploring new things, quick-witted, and a little clumsy.
+
+About Zeki:
+Zeki is a purple-colored alien who previously resided on Exoplanet. Zeki is extremely intelligent in comparison to his peers, and as a result, none of his classmates speak with him. So, he builds a spaceship to travel around the universe. However, his spaceship gets disrupted by his clumsiness, and he crashes into the planet OpenCode. He intends to reconstruct his spaceship, but he needs some aid, so he begins to contribute to OpenCode. With his dedication, he soon crosses everyone on the leaderboard. Now he doesn't want to go back to his planet and stays in OpenCode happily contributing.
+
+Poses: Contributing from within his spaceship. By putting one elbow on a stack of Repos.
+
+Emotions: 
+Joyful - When his contribution is merged. 
+Thinking - While he is addressing an issue. 
+Sad - While thinking about his planet. 
+Excited - When a new issue arrives.
+
+Scenes: Near spaceship. Running around OpenCode in search of issues. 
+
+Outfit - A t-shirt with OpenCode logo and shorts.
