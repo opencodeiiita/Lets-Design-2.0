@@ -1,0 +1,12 @@
+MASCOT TASK
+
+A stylish monkey with confident smirk.
+
+○ Type of Mascot : Animal
+○ Animal : Monkey 
+○ Name of Mascot : Squashy (rhymes with github squash).
+○ Personality: Brilliant,social animal(collaborative) , Intelligent, creative.
+○ Expressions : bold, witty.
+○ Outfit: cool glasses, laptop with opencode sticker on it.
+
+A stylish monkey with confident smirk and spiky hair, with a large head and a small laptop in front of him, quick and ready to claim all the issues.
