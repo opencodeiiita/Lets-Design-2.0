@@ -1,13 +1,13 @@
 OPEN TO ALL
 
-No submission will be accepted after ***29th Oct 11:59 PM***
+No submission will be accepted after ***29th Oct 11:59 AM***
 
-In the third rep, you have to recreate the design in this tutorial https://www.youtube.com/watch?v=DgQAm20_Xuo. Since many of you are facing issues with adobe illustrator, we are allowing you to do this task in figma or any other design software.
+In the second rep, you have to recreate the design in this tutorial https://www.youtube.com/watch?v=pTV2n7fT4fk. Since many of you are facing issues with adobe illustrator, we are allowing you to do this task in figma or any other design software.
 
 ## **Submission Guideline:**
 
 - Just recreate the design given in tutorial.
-- Submit the illustrator file/ figma link in the "Design Rep - 3" Folder only.
+- Submit the illustrator file/ figma link in the "Design Rep - 2" Folder only.
 - Paste a jpg/png file of your design in the Pull Request.
 
 ## **Minimum Design Criteria (MDC)**
