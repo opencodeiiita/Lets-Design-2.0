@@ -1,0 +1,30 @@
+OPENCODE MASCOT
+
+Mascot Type : Animal
+Animal : Owl
+
+
+Personality of the character : 
+
+The owl symbolize:
+
+* Intelligence and insight
+* Independent Thinking
+* Courage and Protection
+* Wisdom
+* Observant Listening
+* Powerful Intuition
+
+In OpenCode too you need intelligence and independent thinking to solve the issues in your own way.
+You have to be observant to claim the issue first and should have courage to even solve some issues out of you confort zone to learn something new. 
+All of the above, to learn something new you should have powerful intuition that you can do it and climb the leaderboard to the top...
+
+Plan Poses, Emotions, Outfits, and Scenes :
+
+pose : Sitting with a coffee and laptop in hand and just making PR's
+
+Emotions : Happiness, competitiveness, zeal to just solve the issue anyhow
+
+Outfits : One and only opencode contributor Shirt
+
+Scenes : Happily seeing the PR made by him being merged 

@@ -1,0 +1,14 @@
+Mascot for OpenCode
+
+Character: Animal(insect)
+HONEY BEE
+
+Honey bees are hard workers plus smart workers which do not waste their time, rush towards the flowers, collect and serve honey. They have enough patience to collect the honey from flowers. They are always alert.
+We contributors are like honey bees which are rushing on the issues and serving codes.
+We have to do work hard enough, there are so many issues but focus and patience is necessary to complete one task
+
+Personality:
+Hard worker, Clever, Calm, Focused, Patient, Never off work, Fly for their aim.
+
+Poses, Outfits:
+Honey bee with a container, say a stick with a little honey labelled "Source code". Large eyes, big smile and a t-shirt named OpenCode and some leaves describing "points".

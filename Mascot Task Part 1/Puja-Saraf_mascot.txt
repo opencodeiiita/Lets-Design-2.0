@@ -1,0 +1,15 @@
+Chosen character : 
+Ant
+
+Personality of this character :
+- Flexibility: whatever the obstacle(issues), the ant has the flexibility to go around it, over it, under it (solving issues)…
+- Planning: Planning makes the ant prepare for future challenges. They are organised in how they carry out a task, so they can achieve it, no matter how big the task seems.
+- Commitment: It does all that is possible, despite its size. Ants are not intimidated by the size of their workload. Commitment makes the ant a winner, whatever the workload.
+- Patience: Patience makes the ant relaxed in testing conditions. They play the long game.
+
+Poses, Emotions, Outfits, and Scenes :
+standing position with a sign of github in hand (ant taking forward the opensource event opencode), wearing glasses.
+
+"In OpenCode open source program, we must have good planning and commitment to resolve the issue within given time. 
+Also, to remain at a good place on leaderboard we need to have commitment and patience for being consistent in this month long event. We also need to have flexibility to try to solve different types of issues so that we learn different things."
+Hence, this relates to the traits of chosen character.

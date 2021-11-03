@@ -1,0 +1,29 @@
+Type of Mascot : Animal
+Type of Animal : Fox
+Mascot Name : Zorro
+
+Motive behind Fox : Fox symbolises independence, passion and clever thinking.
+
+Character Description: 
+Zorro is a low self esteem guy, who feels shy to talk with others. The animals around him thinks foxes are cunning, not trustworthy and they used to avoid Zorro,
+Which made Zorro a loner in the forest. One day Zorro found a laptop and got to know about OpenCode. He was excited to learn and explore new things and started solving the issues, 
+slowly he gained confidence in it which made him to interact with online people. One day, Zorro firmly decided to interact with animals in the forest and he wants to prove that not
+all foxes are cunning, few are kind and innocent like him. 
+
+Personality:
+Highly Intelligent
+Cleverness
+Quick Thinking
+Shy 
+Innocent
+
+Expressions : 
+Sad (Being Alone)
+Happy (When Interacted with online people)
+Focused (While Solving Issues)
+
+Outfit : Wearing a Open Code T-Shirt 
+
+Poses :
+Hiding near the bushes and feeling Sad due to not having friends.
+Sitting With a Laptop with spects and solving the issues.
